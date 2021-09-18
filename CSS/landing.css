@@ -1,0 +1,64 @@
+body {
+ background-image: url("../images/lala.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+ width:100%;
+}
+.botonlanding {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0);
+  border-color: #fff;
+  border: solid;
+  border-width: 2px;
+  border-radius: 15px 15px 15px 15px;
+  bottom: 200px;
+  margin: 100px auto;
+  cursor: pointer;
+  padding: 10px 10px 10px 10px;
+  font-size: 15px;
+  }
+
+.logo {
+  display: block;
+  max-width: 75px;
+  max-height: 75px;
+  margin: 0 auto;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+@media screen and (min-width: 600px) {
+  body {
+   background-image: url("../images/lolo.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   width:100%;
+  }
+  .botonlanding {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: #fff;
+    border: solid;
+    border-width: 2px;
+    border-radius: 15px 15px 15px 15px;
+    margin: 0 auto;
+    cursor: pointer;
+    padding-top: 25px 25px 25px 25px;
+    font-size: 25px;
+    }
+
+  .logo {
+    display: block;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 0 auto;
+    padding-top: 150px;
+    padding-bottom: 250px;
+  }
+}
