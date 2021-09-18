@@ -11,7 +11,9 @@
 <body>
 <div>
 <img class="logo" src="images/logo.png">
-<input class="botonlanding" type="submit" action="catalogo.php" method="post" value="Entrar">
+<form method="post" action="catalogo.php">
+  <input class="botonlanding" type="submit" value="Entrar">
+</form>  
 </div>
 </body>
 </html>
