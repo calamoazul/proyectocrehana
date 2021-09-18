@@ -1,0 +1,57 @@
+body {
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+}
+
+p {
+  font-family: Ubuntu;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.7em;
+  text-align: justify;
+  text-decoration: none;
+  color: #131313;
+  }
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Montserrat;
+  margin: 0 auto;
+  padding: 75 0 75 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #5c3d56;
+}
+
+a:visited {
+  color: #c9adc3;
+}
+
+a:focus {
+  color: #9a658f;
+  border-color: 2px;
+}
+
+a:hover {
+  color: #9a658f;
+  border-color: 2px;
+}
+
+a:active {
+  color: #67445f;
+}
+
+.boton {
+  background-color: #c9adc3;
+  color: fff;
+  max-width: 100px;
+  max-height: 250px;
+  margin: 0 auto;
+  border-radius: 25px 25px 25px 25px;
+  }
