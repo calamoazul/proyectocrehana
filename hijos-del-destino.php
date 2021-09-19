@@ -1,5 +1,5 @@
 <?php
-include ("header.php"); ?>
+include ("templates/header.php"); ?>
 <div class="catalogo">
 <h1>Hijos del destino</h1>
   <section class="muestra">
@@ -17,4 +17,4 @@ Como en un tablero de ajedrez, las piezas empiezan a moverse. Entre ellas, Voice
 </section>
 </div>
 <?php
-include ("footer.php");?>
+include ("templates/footer.php");?>

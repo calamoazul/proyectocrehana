@@ -1,5 +1,5 @@
 <?php
-include ("header.php");
+include ("templates/header.php");
 ?>
    <div class="catalogo">
     <h1>Catálogo de Ediciones Hati</h1>
@@ -18,4 +18,4 @@ include ("header.php");
     </form>
    <section class="muestra">
   </div>
-<?php include ("footer.php");?>
+<?php include ("templates/footer.php");?>

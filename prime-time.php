@@ -1,5 +1,5 @@
 <?php
-include ("header.php"); ?>
+include ("templates/header.php"); ?>
 <div class="catalogo">
 <h1>Prime Time</h1>
   <section class="muestra">
@@ -19,4 +19,4 @@ Jackson Hayden, quien ha pasado los últimos quince años intentando llegar hast
 </section>
 </div>
 <?php
-include ("footer.php");?>
+include ("templates/footer.php");?>

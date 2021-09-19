@@ -1,5 +1,5 @@
 <?php
-include ("header.php"); ?>
+include ("templates/header.php"); ?>
 <div class="catalogo">
 <h1>Ishi va a la escuela</h1>
   <section class="muestra">
@@ -13,4 +13,4 @@ include ("header.php"); ?>
 </section>
 </div>
 <?php
-include ("footer.php");?>
+include ("templates/footer.php");?>
