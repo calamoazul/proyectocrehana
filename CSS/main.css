@@ -68,6 +68,21 @@ form {
   width: 100%;
 }
 
+ul {
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+  font-family: Ubuntu;
+  font-size: 15px;
+  margin: 15px auto;
+  line-height: 1.7em;
+  color: #131313;
+  max-width: 400px;
+  text-align: justify;
+}
+
 .botoncatalogo {
   background-color: #c9adc3;
   color: fff;
@@ -81,6 +96,20 @@ form {
   padding: 15px 15px 15px 15px;
   border: none;
   }
+
+  .botonficha {
+    background-color: #c9adc3;
+    color: fff;
+    font-family: Ubuntu;
+    font-size: 13px;
+    max-width: 250px;
+    max-height: 250px;
+    margin: 0px auto;
+    border-radius: 25px 25px 25px 25px;
+    cursor: pointer;
+    padding: 15px 15px 15px 15px;
+    border: none;
+    }
 
 .logo {
   display: block;

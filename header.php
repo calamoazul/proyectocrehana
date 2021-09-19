@@ -2,7 +2,7 @@
   <head lang="es">
   <meta charset="utf-8" ?>
   <meta name="viewport">
-  <title>catalogo</title>
+  <title>Catalogo Ediciones Hati</title>
   <link href="css/main.css" rel="stylesheet" type="text/css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,7 +10,6 @@
   </head>
   <body>
     <header>
-      <img class="logo">
       <nav>
         <a href="catalogo.php">Catálogo</a>
         <a href="proyecto.php">Proyecto</a>
