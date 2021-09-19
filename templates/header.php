@@ -1,6 +1,6 @@
 <DOCTYPE html>
   <head lang="es">
-  <meta charset="utf-8" ?>
+  <meta charset="utf-8">
   <meta name="viewport">
   <title>Catalogo Ediciones Hati</title>
   <link href="css/main.css" rel="stylesheet" type="text/css">

@@ -68,6 +68,13 @@ form {
   width: 100%;
 }
 
+.linkproyecto {
+  text-decoration: none;
+  margin: 0px!important;
+  padding: 0px!important;
+}
+
+
 ul {
   margin: 0 auto;
 }
@@ -128,6 +135,14 @@ li {
   justify-content: space-between;
 }
 
+.textoproyecto {
+  padding: 75px;
+  text-align: justify;
+  display: flex;
+  flex-direction: column;
+  margin: 0 20px 0 20px;
+}
+
 
 .libro {
   max-width: 400px;
@@ -147,6 +162,13 @@ li {
   justify-content: space-between;
   margin: 100px auto;
   }
+
+.fichaproyecto {
+    display: flex;
+    flex-direction: column;
+    margin: 100px auto;
+    max-width: 400px;
+}
 
 
 
